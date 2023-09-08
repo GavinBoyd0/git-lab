@@ -1,4 +1,3 @@
-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
 1. git version 2.34.1
 2. user.name=GavinBoyd0
    user.email=gb425122@ohio.edu
