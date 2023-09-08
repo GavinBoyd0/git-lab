@@ -53,7 +53,12 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 12. Yes, the changes made online were reflected locally
-13. 
+13. Directory: C:\Users\gavin\2400\git-lab-2
+   
+   Mode                 LastWriteTime         Length Name
+   ----                 -------------         ------ ----
+   -a----          9/8/2023   5:43 PM            302 .gitignore
+   -a----          9/8/2023   5:43 PM             11 README.md
 14. 
 15. 
 16. 
